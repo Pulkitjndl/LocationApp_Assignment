@@ -1,5 +1,4 @@
 ## Location Tracker App.
-Get Location from Background in android.
 
 ![Java](https://img.shields.io/badge/Language-Java-ed8217?logo=java)
 
