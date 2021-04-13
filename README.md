@@ -2,7 +2,6 @@
 
 ![Java](https://img.shields.io/badge/Language-Java-ed8217?logo=java)
 
-### This Example Show's:-
 1) How to get Location in every 15 seconds.
 2) How to get Location from Background using ManagerCLass.
 3) How to get Location and save latitude and longitude using room persistence library.
